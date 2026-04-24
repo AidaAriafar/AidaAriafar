@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="headerrr.png" width="100%" />
+</div>
 
-<!--
-**AidaAriafar/AidaAriafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello!" />
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+B.Sc. Electrical Engineering @ Sharif University of Technology  
+
+---
+
+## Reach Me Out
+<p align="left">
+  <a href="mailto:aryafarayda05@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
+  </a>
+</p>
+
+
+
